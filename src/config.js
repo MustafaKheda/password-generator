@@ -1,1 +1,1 @@
-console.log("version M");
+console.log("version M 1.0");
